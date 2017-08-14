@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Prac-1/HelloWorld/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac-1/Fixed_Debug/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Prac-3/Task 1/Debbuging Exerscises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac-3/Task 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac-3/Task 4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prac-3/Task 3/Debbuging Exerscises/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
